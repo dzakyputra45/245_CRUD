@@ -10,6 +10,6 @@ PUT
 <img width="1919" height="1015" alt="PUT MAHASISWA" src="https://github.com/user-attachments/assets/22a18549-1ee3-4c8d-8f4b-a3820f244fe8" />
 
 DELETE
-![Uploading DELETE MAHASISWA.png…]()
+<img width="1919" height="1026" alt="DELETE MAHASISWA" src="https://github.com/user-attachments/assets/77774087-88d0-4615-b6c6-11e85b097409" />
 
 
